@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'URL Browser' target in the 'URL Browser' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
